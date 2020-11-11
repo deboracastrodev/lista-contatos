@@ -2,7 +2,6 @@
   "expo": {
     "name": "lista-contatos",
     "slug": "lista-contatos",
-    "autor": "Débora Castro",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
